@@ -267,7 +267,7 @@
 !SLIDE bullets incremental
 # What about Java?
 * JHaml
-* SassyBarista (SASS im)
+* SassyBarista
 * Ant scripts
 * Scaml
 * JRuby (Use Java in Ruby)
